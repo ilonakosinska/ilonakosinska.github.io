@@ -3,7 +3,7 @@
 ### Documentation
 
 For more details, please visit
-* [Differentiation Calculator](docs/diffcal).
+* [Differentiation Calculator](https://ilonakosinska.github.io/docs/diffcal).
   
 ### Contact
 
