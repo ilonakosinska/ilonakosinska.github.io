@@ -3,8 +3,7 @@
 ### Documentation
 
 For more details, please visit
-* Differentiation Calculator
-  * [documentation *en-US*](https://www.taketechease.com/mobile/support/diffcal.html).
+* [Differentiation Calculator](docs/diffcal).
   
 ### Contact
 
