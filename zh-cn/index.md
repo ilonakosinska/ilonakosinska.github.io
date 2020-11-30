@@ -5,7 +5,7 @@
 
 ## 文献资料
 
-**微分计算器**
+**差异化-计算器**
 
 [文档网站](https://www.taketechease.com/mobile/diffcal/support-zh-cn.html)
 
