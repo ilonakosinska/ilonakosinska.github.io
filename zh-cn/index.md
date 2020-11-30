@@ -10,4 +10,4 @@
 [文档网站](https://www.taketechease.com/mobile/diffcal/support-zh-cn.html)
 
 ## 联系
-如果您想分享您的意见或报告错误，请[随时与我联系](mailto:i.d.kosinska@gmail.com)。
+如果您想分享您的意见或报告错误，请[与我联系](mailto:i.d.kosinska@gmail.com)。
