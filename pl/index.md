@@ -1,5 +1,7 @@
 ## Wsparcie
 
+Witryna zawiera informacje kontaktowe, które pozwalają użytkownikom skontaktować się ze mną, jeśli napotkają problemy lub chcą zadać pytania dotyczące moich aplikacji.
+
 ### Dokumentacja
 
 **Kalkulator Różniczkowania**
