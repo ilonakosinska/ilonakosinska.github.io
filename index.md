@@ -11,6 +11,11 @@ Find the desired application name in the list below and visit the website provid
   * [Chinese Simplified](https://www.taketechease.com/mobile/diffcal/support-zh-cn.html).
   * [Chinese Traditional](https://www.taketechease.com/mobile/diffcal/support-zh-tw.html).
   
+### Application Availability
+
+The application is available in the following operating systems for mobile phones: iOS and Android.
+The latest iOS version: 1.0(9)
+  
 ### Contact
 
 If you would like to share your opinion or report a bug, do not hesitate to [contact me](mailto:i.d.kosinska@gmail.com).
