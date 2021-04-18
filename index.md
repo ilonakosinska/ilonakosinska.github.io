@@ -14,6 +14,7 @@ Find the desired application name in the list below and visit the website provid
 ### Application Availability
 
 The application is available in the following operating systems for mobile phones: iOS and Android.
+
 The latest iOS version: 1.0(9)
   
 ### Contact
