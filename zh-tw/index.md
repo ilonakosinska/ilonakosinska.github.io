@@ -9,6 +9,12 @@
 
 [文檔網站](https://www.taketechease.com/mobile/diffcal/support-zh-tw.html)
 
+### 應用程序可用性
+
+該應用程序在以下用於手機的操作系統中可用：iOS和Android。
+
+適用於iOS的應用程序的最新版本：1.0（9）
+
 ## 聯繫
 如果您想分享您的意見或報告錯誤，請[隨時與我聯繫](mailto:i.d.kosinska@gmail.com)。
 
