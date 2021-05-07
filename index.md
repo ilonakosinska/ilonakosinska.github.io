@@ -12,10 +12,11 @@ Find the desired application name in the list below and visit the website provid
   * [Chinese Traditional](https://www.taketechease.com/mobile/diffcal/support-zh-tw.html).
   * [Spanish](https://www.taketechease.com/mobile/diffcal/support-es.html) (since iOS version 1.1(1)).
   
-### Application Availability
+### Applications Availability
 
 * **Differentiation Calculator**
-  * The application is available in the following operating systems for mobile devices: iOS and Android.
+
+  The application is available in the following operating systems for mobile devices: iOS and Android.
 
   * The latest version of the app for iOS: 1.0(9)
  
