@@ -10,13 +10,15 @@ Find the desired application name in the list below and visit the website provid
   * [Russian](https://www.taketechease.com/mobile/diffcal/support-ru.html).
   * [Chinese Simplified](https://www.taketechease.com/mobile/diffcal/support-zh-cn.html).
   * [Chinese Traditional](https://www.taketechease.com/mobile/diffcal/support-zh-tw.html).
-  * [Spanish](https://www.taketechease.com/mobile/diffcal/support-es.html).
+  * [Spanish](https://www.taketechease.com/mobile/diffcal/support-es.html) (since iOS version 1.1(1)).
   
 ### Application Availability
 
 The application is available in the following operating systems for mobile phones: iOS and Android.
 
 The latest version of the app for iOS: 1.0(9)
+  
+The next upcoming update of the app for iOS: 1.1(1)
   
 ### Contact
 
