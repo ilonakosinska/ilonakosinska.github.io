@@ -10,6 +10,7 @@ Find the desired application name in the list below and visit the website provid
   * [Russian](https://www.taketechease.com/mobile/diffcal/support-ru.html).
   * [Chinese Simplified](https://www.taketechease.com/mobile/diffcal/support-zh-cn.html).
   * [Chinese Traditional](https://www.taketechease.com/mobile/diffcal/support-zh-tw.html).
+  * [Spanish](https://www.taketechease.com/mobile/diffcal/support-es.html).
   
 ### Application Availability
 
