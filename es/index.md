@@ -1,14 +1,14 @@
 ## Apoyo
 
-### Documentación
-
 El sitio proporciona información de contacto que permite a los usuarios ponerse en contacto conmigo si encuentran problemas o quieren hacer preguntas sobre mis aplicaciones.
 
-**Calculadora de diferenciación**
+### Documentación
+
+**Calculadora de Diferenciación**
 
 [Página de documentación](https://www.taketechease.com/mobile/diffcal/support-es.html) (desde la versión 1.1(1) de iOS).
   
-### Disponibilidad de la Aplicación
+## Disponibilidad de la Aplicación
 
 La aplicación está disponible en los siguientes sistemas operativos para teléfonos móviles: iOS y Android.
 
