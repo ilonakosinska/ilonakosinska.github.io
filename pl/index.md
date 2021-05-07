@@ -16,6 +16,8 @@ Witryna zawiera informacje kontaktowe, które pozwalają użytkownikom skontakto
 
   Najnowsza wersja aplikacji dla systemu iOS: 1.0(9)
 
+  Nadchodząca aktualizacja dla systemu iOS: 1.1(1)
+  
 ### Kontakt
 
 Jeśli chcesz podzielić się swoją opinią lub zgłosić błąd, nie wahaj się ze mną [skontaktować](mailto:i.d.kosinska@gmail.com).
