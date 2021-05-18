@@ -18,4 +18,4 @@ La próxima actualización de la aplicación para iOS: 1.1(1)
   
 ### Contacto
 
-Si desea compartir su opinión o informar un error, no dude en [contact me](mailto:i.d.kosinska@gmail.com).
+Si desea compartir su opinión o informar un error, no dude en [contáctame](mailto:i.d.kosinska@gmail.com).
