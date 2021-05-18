@@ -20,4 +20,4 @@ Il sito fornisce informazioni di contatto che consentono agli utenti di contatta
   
 ### Contatto
 
-Se vuoi condividere la tua opinione o segnalare un bug, non esitare a contattarmi [contatto](mailto:i.d.kosinska@gmail.com).
+Se vuoi condividere la tua opinione o segnalare un bug, non esitare a contattarmi [contattami](mailto:i.d.kosinska@gmail.com).
