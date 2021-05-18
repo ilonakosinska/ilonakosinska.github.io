@@ -11,6 +11,7 @@ Find the desired application name in the list below and visit the website provid
   * [Chinese Simplified](https://www.taketechease.com/mobile/diffcal/support-zh-cn.html).
   * [Chinese Traditional](https://www.taketechease.com/mobile/diffcal/support-zh-tw.html).
   * [Spanish](https://www.taketechease.com/mobile/diffcal/support-es.html) (since iOS version 1.1(1)).
+  * [Italian](https://www.taketechease.com/mobile/diffcal/support-it.html) (since iOS version 1.1(1)).
   
 ### Applications Availability
 
