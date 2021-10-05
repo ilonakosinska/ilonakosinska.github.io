@@ -6,7 +6,7 @@ Witryna zawiera informacje kontaktowe, które pozwalają użytkownikom skontakto
 
 **Kalkulator Różniczkowania**
 
-[Strona dokumentacji](https://www.taketechease.com/differentiation/differentiation-calculator-pl.html) (od wersji iOS 1.1 (5)).
+[Strona dokumentacji](https://www.taketechease.com/differentiation/differentiation-calculator-pl.html)
 
 ### Dostępność Aplikacji
 
