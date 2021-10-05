@@ -6,7 +6,7 @@
 
 **Калькулятор дифференциации**
 
-[Сайт документации](https://www.taketechease.com/differentiation/differentiation-calculator-ru.html) (с iOS версии 1.1 (5)).
+[Сайт документации](https://www.taketechease.com/differentiation/differentiation-calculator-ru.html)
 
 ### Доступность Приложения
 
