@@ -7,7 +7,7 @@
 
 **差异化-计算器**
 
-[文档网站](https://www.taketechease.com/differentiation/differentiation-calculator-zh-cn.html)（来自 iOS 版本 1.1 (5)）。
+[文档网站](https://www.taketechease.com/differentiation/differentiation-calculator-zh-cn.html)
 
 ### 应用程序可用性
 
