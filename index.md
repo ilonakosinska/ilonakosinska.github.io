@@ -5,13 +5,13 @@
 Each app has its own documentation site.
 Find the desired application name in the list below and visit the website provided (in the language of your choice) for more information.
 * **Differentiation Calculator**
-  * [English](https://www.taketechease.com/mobile/diffcal/support-en.html).
-  * [Polish](https://www.taketechease.com/mobile/diffcal/support-pl.html).
-  * [Russian](https://www.taketechease.com/mobile/diffcal/support-ru.html).
-  * [Chinese Simplified](https://www.taketechease.com/mobile/diffcal/support-zh-cn.html).
-  * [Chinese Traditional](https://www.taketechease.com/mobile/diffcal/support-zh-tw.html).
-  * [Spanish](https://www.taketechease.com/mobile/diffcal/support-es.html) (since iOS version 1.1(1)).
-  * [Italian](https://www.taketechease.com/mobile/diffcal/support-it.html) (since iOS version 1.1(1)).
+  * [English](https://www.taketechease.com/differentiation/differentiation-calculator-en.html).
+  * [Polish](https://www.taketechease.com/differentiation/differentiation-calculator-pl.html).
+  * [Russian](https://www.taketechease.com/differentiation/differentiation-calculator-ru.html).
+  * [Chinese Simplified](https://www.taketechease.com/differentiation/differentiation-calculator-zh-cn.html).
+  * [Chinese Traditional](https://www.taketechease.com/differentiation/differentiation-calculator-zh-tw.html).
+  * [Spanish](https://www.taketechease.com/differentiation/differentiation-calculator-es.html) (since iOS version 1.1(5)).
+  * [Italian](https://www.taketechease.com/differentiation/differentiation-calculator-it.html) (since iOS version 1.1(5)).
   
 ### Applications Availability
 
@@ -21,7 +21,7 @@ Find the desired application name in the list below and visit the website provid
 
   The latest version of the app for iOS: 1.0(9)
  
-  The next upcoming update of the app for iOS: 1.1(1)
+  The next upcoming update of the app for iOS: 1.1(5)
   
 ### Contact
 
