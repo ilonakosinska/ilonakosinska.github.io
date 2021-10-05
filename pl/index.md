@@ -6,7 +6,7 @@ Witryna zawiera informacje kontaktowe, które pozwalają użytkownikom skontakto
 
 **Kalkulator Różniczkowania**
 
-[Strona dokumentacji](https://www.taketechease.com/mobile/diffcal/support-pl.html)
+[Strona dokumentacji](https://www.taketechease.com/differentiation/differentiation-calculator-pl.html) (od wersji iOS 1.1 (5)).
 
 ### Dostępność Aplikacji
 
@@ -16,7 +16,7 @@ Witryna zawiera informacje kontaktowe, które pozwalają użytkownikom skontakto
 
   Najnowsza wersja aplikacji dla systemu iOS: 1.0(9)
 
-  Nadchodząca aktualizacja dla systemu iOS: 1.1(1)
+  Nadchodząca aktualizacja dla systemu iOS: 1.1(5)
   
 ### Kontakt
 
