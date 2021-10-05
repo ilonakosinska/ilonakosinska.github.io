@@ -7,7 +7,7 @@
 
 **差异化-计算器**
 
-[文档网站](https://www.taketechease.com/mobile/diffcal/support-zh-cn.html)
+[文档网站](https://www.taketechease.com/differentiation/differentiation-calculator-zh-cn.html)（来自 iOS 版本 1.1 (5)）。
 
 ### 应用程序可用性
 
@@ -17,7 +17,7 @@
 
 适用于iOS的最新版本的应用程序：1.0（9）
 
-iOS的该应用程序的下一个即将更新：1.1（1）
+iOS的该应用程序的下一个即将更新：1.1（5）
 
 ## 联系
 如果您想分享您的意见或报告错误，请[与我联系](mailto:i.d.kosinska@gmail.com)。
