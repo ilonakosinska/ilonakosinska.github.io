@@ -6,7 +6,7 @@ El sitio proporciona información de contacto que permite a los usuarios ponerse
 
 **Calculadora de Diferenciación**
 
-[Página de documentación](https://www.taketechease.com/mobile/diffcal/support-es.html) (desde la versión 1.1(1) de iOS).
+[Página de documentación](https://www.taketechease.com/differentiation/differentiation-calculator-es.html) (desde la versión 1.1(5) de iOS).
   
 ### Disponibilidad de la Aplicación
 
@@ -14,7 +14,7 @@ La aplicación está disponible en los siguientes sistemas operativos para telé
 
 La última versión de la aplicación para iOS: 1.0(9)
   
-La próxima actualización de la aplicación para iOS: 1.1(1)
+La próxima actualización de la aplicación para iOS: 1.1(5)
   
 ### Contacto
 
