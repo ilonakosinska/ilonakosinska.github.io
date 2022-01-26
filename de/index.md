@@ -6,7 +6,7 @@ Die Website bietet Kontaktinformationen, die es Benutzern ermöglichen, mich zu 
 
 **Differenzierungsrechner**
 
-[Dokumentationsseite](https://www.taketechease.com/differentiation/differentiation-calculator-en.html) (ab Version iOS 1.2 (1)).
+[Dokumentationsseite](https://www.taketechease.com/differentiation/differentiation-calculator-de.html) (ab Version iOS 1.2 (1)).
 
 ### Anwendungsverfügbarkeit
 
@@ -20,4 +20,4 @@ Die Website bietet Kontaktinformationen, die es Benutzern ermöglichen, mich zu 
   
 ### Kontakt
 
-Wenn Sie Ihre Meinung teilen oder einen Fehler melden möchten, zögern Sie nicht, mich zu kontaktieren [kontaktiere mich](mailto:i.d.kosinska@gmail.com).
+Wenn Sie Ihre Meinung teilen oder einen Fehler melden möchten, zögern Sie nicht, mich zu [kontaktiere mich](mailto:i.d.kosinska@gmail.com).
