@@ -10,7 +10,7 @@ Die Website bietet Kontaktinformationen, die es Benutzern ermöglichen, mich zu 
 
 ### Anwendungsverfügbarkeit
 
-**CDifferenzierungsrechner**
+**Differenzierungsrechner**
 
   Die Anwendung ist in den folgenden mobilen Betriebssystemen verfügbar: iOS und Android.
 
