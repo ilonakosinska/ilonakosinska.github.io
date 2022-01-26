@@ -20,4 +20,4 @@ Le site fournit des informations de contact qui permettent aux utilisateurs de m
   
 ### Contact
 
-Si vous souhaitez partager votre avis ou signaler un bug, n'hésitez pas à me contacter [me contacter](mailto:i.d.kosinska@gmail.com).
+Si vous souhaitez partager votre avis ou signaler un bug, n'hésitez pas à [me contacter](mailto:i.d.kosinska@gmail.com).
