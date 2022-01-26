@@ -20,4 +20,4 @@ Die Website bietet Kontaktinformationen, die es Benutzern ermöglichen, mich zu 
   
 ### Kontakt
 
-Wenn Sie Ihre Meinung teilen oder einen Fehler melden möchten, zögern Sie nicht, mich zu [kontaktiere mich](mailto:i.d.kosinska@gmail.com).
+Wenn Sie Ihre Meinung teilen oder einen Fehler melden möchten, zögern Sie nicht, mich zu [kontaktiere](mailto:i.d.kosinska@gmail.com).
