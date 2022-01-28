@@ -21,9 +21,11 @@ Find the desired application name in the list below and visit the website provid
 
   The application is available in the following operating systems for mobile devices: iOS and Android.
 
-  The latest version of the app for iOS: 1.0(9)
+  The latest version of the app for iOS: 1.1(5)
  
-  The next upcoming update of the app for iOS: 1.1(5)
+  The next upcoming update of the app for iOS: 1.2(1)
+  
+  The latest version of the app for Android: 1.0(26)
   
 ### Contact
 
