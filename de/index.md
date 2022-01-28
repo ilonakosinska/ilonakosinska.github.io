@@ -18,6 +18,8 @@ Die Website bietet Kontaktinformationen, die es Benutzern ermöglichen, mich zu 
 
   Nächstes iOS-Update: 1.2(1)
   
+  Letzte Version der Anwendung für Android: 1.0(26)
+   
 ### Kontakt
 
 Wenn Sie Ihre Meinung teilen oder einen Fehler melden möchten, zögern Sie nicht, mich zu [kontaktiere](mailto:i.d.kosinska@gmail.com).
