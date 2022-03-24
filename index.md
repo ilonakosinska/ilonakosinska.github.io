@@ -14,7 +14,8 @@ Find the desired application name in the list below and visit the website provid
   * [Italian](https://www.taketechease.com/differentiation/differentiation-calculator-it.html) (since iOS version 1.1(5)).
   * [German](https://www.taketechease.com/differentiation/differentiation-calculator-de.html) (since iOS version 1.2(1)).
   * [French](https://www.taketechease.com/differentiation/differentiation-calculator-fr.html) (since iOS version 1.2(1)).
-  
+  * [Japanese](https://www.taketechease.com/differentiation/differentiation-calculator-ja.html) (since iOS version 1.2(1)).
+   
 ### Applications Availability
 
 * **Differentiation Calculator**
