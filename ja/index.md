@@ -6,7 +6,7 @@
 
 **微分計算機**
 
-[ドキュメントページ](https://www.taketechease.com/differentiation/differentiation-calculator-en.html) (英語で).
+[ドキュメントページ](https://www.taketechease.com/differentiation/differentiation-calculator-ja.html) (バージョンiOS 1.2（1）から).
 
 ### アプリケーションの可用性
 
