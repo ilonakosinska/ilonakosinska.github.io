@@ -6,7 +6,7 @@
 
 **微分計算機**
 
-[ドキュメントページ](https://www.taketechease.com/differentiation/differentiation-calculator-ja.html) (バージョンiOS 1.2（1）から).
+[ドキュメントページ](https://www.taketechease.com/differentiation/differentiation-calculator-ja.html) (バージョンiOS 1.2（3）から).
 
 ### アプリケーションの可用性
 
@@ -16,9 +16,9 @@
 
   iOS用アプリケーションの最新バージョン：1.1（5）
 
-  次のiOSアップデート：1.2（1)
+  次のiOSアップデート：1.2（3)
   
-  Android用アプリケーションの最新バージョン：1.0（26）
+  Android用アプリケーションの最新バージョン：1.0（33）
    
 ### コンタク
 
