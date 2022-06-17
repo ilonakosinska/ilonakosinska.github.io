@@ -12,9 +12,9 @@ Find the desired application name in the list below and visit the website provid
   * [Chinese Traditional](https://www.taketechease.com/differentiation/differentiation-calculator-zh-tw.html).
   * [Spanish](https://www.taketechease.com/differentiation/differentiation-calculator-es.html) (since iOS version 1.1(5)).
   * [Italian](https://www.taketechease.com/differentiation/differentiation-calculator-it.html) (since iOS version 1.1(5)).
-  * [German](https://www.taketechease.com/differentiation/differentiation-calculator-de.html) (since iOS version 1.2(1)).
-  * [French](https://www.taketechease.com/differentiation/differentiation-calculator-fr.html) (since iOS version 1.2(1)).
-  * [Japanese](https://www.taketechease.com/differentiation/differentiation-calculator-ja.html) (since iOS version 1.2(1)).
+  * [German](https://www.taketechease.com/differentiation/differentiation-calculator-de.html) (since iOS version 1.2(3)).
+  * [French](https://www.taketechease.com/differentiation/differentiation-calculator-fr.html) (since iOS version 1.2(3)).
+  * [Japanese](https://www.taketechease.com/differentiation/differentiation-calculator-ja.html) (since iOS version 1.2(3)).
    
 ### Applications Availability
 
@@ -24,9 +24,9 @@ Find the desired application name in the list below and visit the website provid
 
   The latest version of the app for iOS: 1.1(5)
  
-  The next upcoming update of the app for iOS: 1.2(1)
+  The next upcoming update of the app for iOS: 1.2(3)
   
-  The latest version of the app for Android: 1.0(26)
+  The latest version of the app for Android: 1.0(33)
   
 ### Contact
 
