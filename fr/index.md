@@ -6,7 +6,7 @@ Le site fournit des informations de contact qui permettent aux utilisateurs de m
 
 **Calculateur de Différenciation**
 
-[Page de documentation](https://www.taketechease.com/differentiation/differentiation-calculator-en.html) (à partir de la version iOS 1.2 (1)).
+[Page de documentation](https://www.taketechease.com/differentiation/differentiation-calculator-en.html) (à partir de la version iOS 1.2 (3)).
 
 ### Disponibilité des Applications
 
@@ -16,9 +16,9 @@ Le site fournit des informations de contact qui permettent aux utilisateurs de m
 
   Dernière version de l'application pour iOS: 1.1(5)
 
-  Prochaine mise à jour iOS: 1.2(1)
+  Prochaine mise à jour iOS: 1.2(3)
   
-  Dernière version de l'application pour Android: 1.0(26)
+  Dernière version de l'application pour Android: 1.0(33)
   
 ### Contact
 
