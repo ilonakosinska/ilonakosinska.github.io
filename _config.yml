@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Welcome to the Ilona Kosińska's homepage.
 description: The site provides contact information that allows users to contact me if they experience problems, desire new features or want to ask questions about my applications.
+include: [".well-known"]
