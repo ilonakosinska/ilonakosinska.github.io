@@ -14,7 +14,7 @@ O aplicativo está disponível nos seguintes sistemas operacionais de celulares:
 
 A versão mais recente do aplicativo para iOS: 1.4(2)
   
-A próxima atualização do aplicativo iOS: 1.5(1)
+A próxima atualização do aplicativo iOS: 1.5(2)
   
 A versão mais recente do aplicativo Android: 1.0(33)
   
