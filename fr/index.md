@@ -16,7 +16,7 @@ Le site fournit des informations de contact qui permettent aux utilisateurs de m
 
   Dernière version de l'application pour iOS: 1.4(2)
 
-  Prochaine mise à jour iOS: 1.5(1)
+  Prochaine mise à jour iOS: 1.5(2)
   
   Dernière version de l'application pour Android: 1.0(33)
   
