@@ -15,7 +15,7 @@ Find the desired application name in the list below and visit the website provid
   * [German](https://www.taketechease.com/differentiation/differentiation-calculator-de.html) (since iOS version 1.2(3)).
   * [French](https://www.taketechease.com/differentiation/differentiation-calculator-fr.html) (since iOS version 1.2(3)).
   * [Japanese](https://www.taketechease.com/differentiation/differentiation-calculator-ja.html) (since iOS version 1.2(3)).
-  * [Portuguese](https://www.taketechease.com/differentiation/differentiation-calculator-pt.html) (since iOS version 1.5(1)).
+  * [Portuguese](https://www.taketechease.com/differentiation/differentiation-calculator-pt.html) (since iOS version 1.5(2)).
     
 ### Applications Availability
 
@@ -25,7 +25,7 @@ Find the desired application name in the list below and visit the website provid
 
   The latest version of the app for iOS and macOS (Designed for iPad): 1.4(2)
  
-  The next upcoming update of the app for iOS: 1.5(1)
+  The next upcoming update of the app for iOS: 1.5(2)
   
   The latest version of the app for Android: 1.0(33)
   
