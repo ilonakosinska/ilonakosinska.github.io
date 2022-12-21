@@ -16,7 +16,7 @@ Die Website bietet Kontaktinformationen, die es Benutzern ermöglichen, mich zu 
 
   Letzte Version der Anwendung für iOS: 1.4(2)
 
-  Nächstes iOS-Update: 1.5(1)
+  Nächstes iOS-Update: 1.5(2)
   
   Letzte Version der Anwendung für Android: 1.0(33)
    
