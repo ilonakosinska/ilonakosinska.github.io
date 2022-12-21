@@ -6,7 +6,7 @@ O site fornece informações de contato que permitem aos usuários entrar em con
 
 **Calculadora de Diferenciação**
 
-[Página de documentação](https://www.taketechease.com/differentiation/differentiation-calculator-pt.html) (da versão iOS 1.5(1)).
+[Página de documentação](https://www.taketechease.com/differentiation/differentiation-calculator-pt.html) (da versão iOS 1.5(2)).
   
 ### Disponibilidade do Aplicativo
 
