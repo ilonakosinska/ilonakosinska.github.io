@@ -6,7 +6,7 @@ O site fornece informações de contato que permitem aos usuários entrar em con
 
 **Calculadora de Diferenciação**
 
-[Página de documentação](https://www.taketechease.com/differentiation/differentiation-calculator-pt.html) (da versão iOS 1.5(2)).
+[Página de documentação](https://www.taketechease.com/differentiation/differentiation-calculator-pt.html) (da versão iOS 1.5(3)).
   
 ### Disponibilidade do Aplicativo
 
@@ -14,7 +14,7 @@ O aplicativo está disponível nos seguintes sistemas operacionais de celulares:
 
 A versão mais recente do aplicativo para iOS: 1.4(2)
   
-A próxima atualização do aplicativo iOS: 1.5(2)
+A próxima atualização do aplicativo iOS: 1.5(3)
   
 A versão mais recente do aplicativo Android: 1.0(33)
   
