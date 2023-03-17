@@ -16,7 +16,7 @@ A versão mais recente do aplicativo para iOS: 1.4(2)
   
 A próxima atualização do aplicativo iOS: 1.5(3)
   
-A versão mais recente do aplicativo Android: 1.2(37)
+A versão mais recente do aplicativo Android: 1.2(39)
   
 ### Contato
 
