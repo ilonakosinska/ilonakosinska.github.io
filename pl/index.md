@@ -18,7 +18,7 @@ Witryna zawiera informacje kontaktowe, które pozwalają użytkownikom skontakto
 
   Nadchodząca aktualizacja dla systemu iOS: 1.5(3)
   
-  Najnowsza wersja aplikacji dla systemu Android: 1.2(37)
+  Najnowsza wersja aplikacji dla systemu Android: 1.2(39)
   
 ### Kontakt
 
