@@ -27,7 +27,7 @@ Find the desired application name in the list below and visit the website provid
  
   The next upcoming update of the app for iOS: 1.5(3)
   
-  The latest version of the app for Android: 1.0(33)
+  The latest version of the app for Android: 1.2(37)
   
 ### Contact
 
