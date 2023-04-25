@@ -12,11 +12,11 @@ El sitio proporciona información de contacto que permite a los usuarios ponerse
 
 La aplicación está disponible en los siguientes sistemas operativos para teléfonos móviles: iOS y Android.
 
-La última versión de la aplicación para iOS: 1.4(2)
+La última versión de la aplicación para iOS: 1.5(3)
   
-La próxima actualización de la aplicación para iOS: 1.5(3)
+La próxima actualización de la aplicación para iOS: 1.6(2)
   
-La última versión de la aplicación para Android: 1.2(39)
+La última versión de la aplicación para Android: 1.4(41)
   
 ### Contacto
 
