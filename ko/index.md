@@ -6,7 +6,7 @@
 
 **미분 계산기**
 
-[문서 페이지](https://www.taketechease.com/차별화/차별화-calculator-en.html)
+[문서 페이지](https://www.taketechease.com/differentiation/differentiation-calculator-ko.html)
 
 ### 애플리케이션 가용성
 
