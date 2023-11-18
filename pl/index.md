@@ -8,6 +8,10 @@ Witryna zawiera informacje kontaktowe, które pozwalają użytkownikom skontakto
 
 [Strona dokumentacji](https://www.taketechease.com/differentiation/differentiation-calculator-pl.html)
 
+**Algorytmy Genetyczne**
+
+[Strona dokumentacji (ang.)](https://www.taketechease.com/optfinder/genetic-algorithms.html)
+
 ### Dostępność Aplikacji
 
 **Kalkulator Różniczkowania**
@@ -19,6 +23,14 @@ Witryna zawiera informacje kontaktowe, które pozwalają użytkownikom skontakto
   Nadchodząca aktualizacja dla systemu iOS: 1.6(2)
   
   Najnowsza wersja aplikacji dla systemu Android: 1.4(41)
+
+**Algorytmy Genetyczne**
+
+  Aplikacja dostępna jest w następujących systemach operacyjnych dla urządzeń mobilnych: iOS.
+
+  Najnowsza wersja aplikacji dla systemu iOS: 1.0(2)
+
+  Nadchodząca aktualizacja dla systemu iOS: 1.1(1)
   
 ### Kontakt
 
