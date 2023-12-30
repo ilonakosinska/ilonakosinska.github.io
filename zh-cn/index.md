@@ -9,10 +9,6 @@
 
 [文档网站](https://www.taketechease.com/differentiation/differentiation-calculator-zh-cn.html)
 
-**遗传算法**
-
-[文档网站](https://www.taketechease.com/optfinder/genetic-algorithms.html)
-
 ### 应用程序可用性
 
 **差异化-计算器**
@@ -26,12 +22,6 @@
 iOS的该应用程序的下一个即将更新：1.6（2）
 
 适用于Android的最新版本的应用程序：1.4（41）
-
-**遗传算法**
-
-适用于iOS的最新版本的应用程序：1.0（2）
-
-iOS的该应用程序的下一个即将更新：1.1（1）
 
 ## 联系
 如果您想分享您的意见或报告错误，请[与我联系](mailto:i.d.kosinska@gmail.com)。
