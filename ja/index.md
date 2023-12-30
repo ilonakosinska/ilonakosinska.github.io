@@ -8,6 +8,10 @@
 
 [ドキュメントページ](https://www.taketechease.com/differentiation/differentiation-calculator-ja.html) (バージョンiOS 1.2（3）から).
 
+**遺伝的アルゴリズム**
+
+[ドキュメントページ](https://www.taketechease.com/optfinder/genetic-algorithms.html) 
+
 ### アプリケーションの可用性
 
 **微分計算機**
@@ -19,6 +23,12 @@
   次のiOSアップデート：1.6（2)
   
   Android用アプリケーションの最新バージョン：1.4（41）
+
+**遺伝的アルゴリズム**
+
+  iOS用アプリケーションの最新バージョン：1.0（2）
+
+  次のiOSアップデート：1.1（1)
    
 ### コンタク
 
