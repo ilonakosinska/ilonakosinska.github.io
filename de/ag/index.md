@@ -1,21 +1,11 @@
-## Support
+## Unterstützung
 
-### Documentation
+Die Website bietet Kontaktinformationen, die es Benutzern ermöglichen, mich zu kontaktieren, wenn sie auf Probleme stoßen oder Fragen zu meinen Anwendungen stellen möchten.
 
-Each app has its own documentation site.
-Find the desired application name in the list below and visit the website provided (in the language of your choice) for more information.
+### Dokumentation
 
-* **Genetic Algorithms**
-    * [English](https://www.taketechease.com/optfinder/genetic-algorithms.html).
-      
-### Applications Availability
+**Genetische Algorythmen**
 
-* **Genetic Algorithms**
-  
-  The latest version of the app for iOS and macOS (Designed for iPad): 1.0(2)
- 
-  The next upcoming update of the app for iOS: 1.1(1)
-  
-### Contact
+[Dokumentationsseite](https://www.taketechease.com/optfinder/genetic-algorithms.html)
 
-If you would like to share your opinion or report a bug, do not hesitate to [contact me](mailto:i.d.kosinska@gmail.com).
+### Anwendungsverfügbarkeit
