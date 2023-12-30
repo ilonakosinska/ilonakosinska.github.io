@@ -8,6 +8,10 @@ Le site fournit des informations de contact qui permettent aux utilisateurs de m
 
 [Page de documentation](https://www.taketechease.com/differentiation/differentiation-calculator-en.html) (à partir de la version iOS 1.2 (3)).
 
+**Algorithmes génétiques**
+
+[Page de documentation](https://www.taketechease.com/optfinder/genetic-algorithms.html)
+
 ### Disponibilité des Applications
 
 **Calculateur de Différenciation**
@@ -19,6 +23,12 @@ Le site fournit des informations de contact qui permettent aux utilisateurs de m
   Prochaine mise à jour iOS: 1.6(2)
   
   Dernière version de l'application pour Android: 1.4(41)
+
+**Algorithmes génétiques**
+
+  Dernière version de l'application pour iOS: 1.0(2)
+
+  Prochaine mise à jour iOS: 1.1(1)
   
 ### Contact
 
