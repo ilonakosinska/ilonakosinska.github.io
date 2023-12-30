@@ -9,3 +9,13 @@ Die Website bietet Kontaktinformationen, die es Benutzern ermöglichen, mich zu 
 [Dokumentationsseite](https://www.taketechease.com/optfinder/genetic-algorithms.html)
 
 ### Anwendungsverfügbarkeit
+
+**Genetische Algorythmen**
+
+  Letzte Version der Anwendung für iOS: 1.0(2)
+
+  Nächstes iOS-Update: 1.1(1)
+   
+### Kontakt
+
+Wenn Sie Ihre Meinung teilen oder einen Fehler melden möchten, zögern Sie nicht, mich zu [kontaktiere](mailto:i.d.kosinska@gmail.com).
