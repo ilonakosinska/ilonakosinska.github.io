@@ -18,7 +18,7 @@ Find the desired application name in the list below and visit the website provid
   * [Portuguese](https://www.taketechease.com/differentiation/differentiation-calculator-pt.html) (since iOS version 1.5(3)).
   * [Korean](https://www.taketechease.com/differentiation/differentiation-calculator-ko.html) (since iOS version 1.7(2)).
     
-* **GeneticAlgorithms**
+* **Genetic Algorithms**
     * [English](https://www.taketechease.com/optfinder/genetic-algorithms.html).
       
 ### Applications Availability
@@ -33,7 +33,7 @@ Find the desired application name in the list below and visit the website provid
   
   The latest version of the app for Android: 1.4(41)
 
-* **GeneticAlgorithms**
+* **Genetic Algorithms**
   
   The latest version of the app for iOS and macOS (Designed for iPad): 1.0(2)
  
