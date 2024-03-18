@@ -36,9 +36,6 @@ Find the desired application name in the list below and visit the website provid
 * **Genetic Algorithms**
 
   [Genetic Algorithms](https://ilonakosinska.github.io/ag/)
-  The latest version of the app for iOS and macOS (Designed for iPad): 1.0(4)
- 
-  The next upcoming update of the app for iOS: 1.1(1)
   
 ### Contact
 
