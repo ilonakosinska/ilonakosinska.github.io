@@ -12,7 +12,7 @@ El sitio proporciona información de contacto que permite a los usuarios ponerse
 
 **Algoritmos genéticos**
 
-La última versión de la aplicación para iOS: 1.0(2)
+La última versión de la aplicación para iOS: 1.0(4)
   
 La próxima actualización de la aplicación para iOS: 1.1(1)
   
