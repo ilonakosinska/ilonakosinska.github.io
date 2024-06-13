@@ -22,4 +22,4 @@ Android용 애플리케이션 최신 버전: 1.4(41)
 
 ### 연락하다
 
-의견을 공유하거나 오류를 보고하려면 [contact me](mailto:i.d.kosinska@gmail.com)으로 이메일을 보내주세요.
+의견을 공유하거나 오류를 보고하려면 으로 [이메일을](mailto:i.d.kosinska@gmail.com)보내주세요.
