@@ -16,7 +16,7 @@ Find the desired application name in the list below and visit the website provid
   * [French](https://www.taketechease.com/differentiation/differentiation-calculator-fr.html) (since iOS version 1.2(3)).
   * [Japanese](https://www.taketechease.com/differentiation/differentiation-calculator-ja.html) (since iOS version 1.2(3)).
   * [Portuguese](https://www.taketechease.com/differentiation/differentiation-calculator-pt.html) (since iOS version 1.5(3)).
-  * [Korean](https://www.taketechease.com/differentiation/differentiation-calculator-ko.html) (since iOS version 1.7(2)).
+  * [Korean](https://www.taketechease.com/differentiation/differentiation-calculator-ko.html) (since iOS version 1.7(5)).
     
 * **Genetic Algorithms**
     * [English](https://www.taketechease.com/optfinder/genetic-algorithms.html).
