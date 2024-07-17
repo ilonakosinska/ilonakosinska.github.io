@@ -29,9 +29,9 @@ Find the desired application name in the list below and visit the website provid
 
   The latest version of the app for iOS and macOS (Designed for iPad): 1.7(5)
  
-  The next upcoming update of the app for iOS: 1.8(1)
+  The next upcoming update of the app for iOS: 1.8(2)
   
-  The latest version of the app for Android: 1.4(41)
+  The latest version of the app for Android: 1.6(45)
 
 * **Genetic Algorithms**
 
