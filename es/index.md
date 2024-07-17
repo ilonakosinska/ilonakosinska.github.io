@@ -16,9 +16,9 @@ La aplicación está disponible en los siguientes sistemas operativos para telé
 
 La última versión de la aplicación para iOS: 1.7(5)
   
-La próxima actualización de la aplicación para iOS: 1.8(1)
+La próxima actualización de la aplicación para iOS: 1.8(2)
   
-La última versión de la aplicación para Android: 1.4(41)
+La última versión de la aplicación para Android: 1.6(45)
   
 ### Contacto
 
