@@ -12,8 +12,6 @@ O site fornece informações de contato que permitem aos usuários entrar em con
 
 **Algoritmos genéticos**
 
-O aplicativo está disponível nos seguintes sistemas operacionais de celulares: iOS.
-
 A versão mais recente do aplicativo para iOS: 1.1(1)
   
 A próxima atualização do aplicativo iOS: 1.2(1)
