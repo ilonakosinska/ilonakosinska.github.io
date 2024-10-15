@@ -27,9 +27,9 @@ Find the desired application name in the list below and visit the website provid
 
   The application is available in the following operating systems for mobile devices: iOS and Android.
 
-  The latest version of the app for iOS and macOS (Designed for iPad): 1.7(5)
+  The latest version of the app for iOS and macOS (Designed for iPad): 1.8(2)
  
-  The next upcoming update of the app for iOS: 1.8(2)
+  The next upcoming update of the app for iOS: 1.9(1)
   
   The latest version of the app for Android: 1.6(45)
 
