@@ -4,9 +4,9 @@ O site fornece informações de contato que permitem aos usuários entrar em con
 
 ### Documentação
 
-**Calculadora de Diferenciação**
+**Algoritmos genéticos**
 
-[Página de documentação](https://www.taketechease.com/differentiation/differentiation-calculator-pt.html) (da versão iOS 1.2(1)).
+[Página de documentação](https://www.taketechease.com/optfinder/genetic-algorithms.html) (da versão iOS 1.2(1)).
   
 ### Disponibilidade do Aplicativo
 
