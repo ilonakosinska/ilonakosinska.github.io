@@ -6,15 +6,15 @@
 
 **유전 알고리즘**
 
-[문서 페이지](https://www.taketechease.com/differentiation/differentiation-calculator-ko.html)
+[문서 페이지](https://www.taketechease.com/optfinder/genetic-algorithms.html)
 
 ### 애플리케이션 가용성
 
 **유전 알고리즘**
 
-iOS용 애플리케이션 최신 버전: 1.8(2)
+iOS용 애플리케이션 최신 버전: 1.1(1)
 
-다음 iOS 업데이트: 1.9(1)
+다음 iOS 업데이트: 1.2(1)
 
 ### 연락하다
 
