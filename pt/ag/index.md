@@ -10,7 +10,9 @@ O site fornece informações de contato que permitem aos usuários entrar em con
   
 ### Disponibilidade do Aplicativo
 
-O aplicativo está disponível nos seguintes sistemas operacionais de celulares: iOS e Android.
+**Algoritmos genéticos**
+
+O aplicativo está disponível nos seguintes sistemas operacionais de celulares: iOS.
 
 A versão mais recente do aplicativo para iOS: 1.1(1)
   
