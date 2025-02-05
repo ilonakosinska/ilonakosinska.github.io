@@ -12,9 +12,9 @@ Find the desired application name in the list below and visit the website provid
 
 * **Genetic Algorithms**
   
-  The latest version of the app for iOS and macOS (Designed for iPad): 1.0(4)
+  The latest version of the app for iOS and macOS (Designed for iPad): 1.1(1)
  
-  The next upcoming update of the app for iOS: 1.1(1)
+  The next upcoming update of the app for iOS: 1.2(1)
   
 ### Contact
 
