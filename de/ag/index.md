@@ -14,7 +14,7 @@ Die Website bietet Kontaktinformationen, die es Benutzern ermöglichen, mich zu 
 
   Letzte Version der Anwendung für iOS: 1.1(1)
 
-  Nächstes iOS-Update: 1.2(1)
+  Nächstes iOS-Update: 1.2(2)
    
 ### Kontakt
 
