@@ -14,9 +14,9 @@ Witryna zawiera informacje kontaktowe, które pozwalają użytkownikom skontakto
 
   Aplikacja dostępna jest w następujących systemach operacyjnych dla urządzeń mobilnych: iOS.
 
-  Najnowsza wersja aplikacji dla systemu iOS: 1.1(1)
+  Najnowsza wersja aplikacji dla systemu iOS: 1.2(2)
 
-  Nadchodząca aktualizacja dla systemu iOS: 1.2(2)
+  Nadchodząca aktualizacja dla systemu iOS: 1.3(1)
   
 ### Kontakt
 
