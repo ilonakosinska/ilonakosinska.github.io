@@ -12,9 +12,9 @@ Die Website bietet Kontaktinformationen, die es Benutzern ermöglichen, mich zu 
 
 **Genetische Algorythmen**
 
-  Letzte Version der Anwendung für iOS: 1.1(1)
+  Letzte Version der Anwendung für iOS: 1.2(2)
 
-  Nächstes iOS-Update: 1.2(2)
+  Nächstes iOS-Update: 1.3(1)
    
 ### Kontakt
 
