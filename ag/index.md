@@ -14,7 +14,7 @@ Find the desired application name in the list below and visit the website provid
   
   The latest version of the app for iOS and macOS (Designed for iPad): 1.2(2)
  
-  The next upcoming update of the app for iOS: 1.3(1)
+  The next upcoming update of the app for iOS: 1.3(2)
   
 ### Contact
 
