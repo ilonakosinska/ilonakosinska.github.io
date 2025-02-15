@@ -14,7 +14,7 @@ O site fornece informações de contato que permitem aos usuários entrar em con
 
 A versão mais recente do aplicativo para iOS: 1.2(2)
   
-A próxima atualização do aplicativo iOS: 1.3(1)
+A próxima atualização do aplicativo iOS: 1.3(2)
   
 ### Contato
 
