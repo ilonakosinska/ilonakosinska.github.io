@@ -16,7 +16,7 @@ Witryna zawiera informacje kontaktowe, które pozwalają użytkownikom skontakto
 
   Najnowsza wersja aplikacji dla systemu iOS: 1.2(2)
 
-  Nadchodząca aktualizacja dla systemu iOS: 1.3(1)
+  Nadchodząca aktualizacja dla systemu iOS: 1.3(2)
   
 ### Kontakt
 
