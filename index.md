@@ -36,6 +36,10 @@ Find the desired application name in the list below and visit the website provid
 * **Genetic Algorithms**
 
   [Genetic Algorithms](https://ilonakosinska.github.io/ag/)
+
+* **Stochastic Processes**
+
+  [Stochastic Processes](https://ilonakosinska.github.io/sp/)
   
 ### Contact
 
