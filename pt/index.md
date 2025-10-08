@@ -12,11 +12,11 @@ O site fornece informações de contato que permitem aos usuários entrar em con
 
 O aplicativo está disponível nos seguintes sistemas operacionais de celulares: iOS e Android.
 
-A versão mais recente do aplicativo para iOS: 1.9(1)
+A versão mais recente do aplicativo para iOS: 1.10(1)
   
-A próxima atualização do aplicativo iOS: 1.10(1)
+A próxima atualização do aplicativo iOS: 1.11(1)
   
-A versão mais recente do aplicativo Android: 1.6(45)
+A versão mais recente do aplicativo Android: 1.9-full-minApi21
   
 ### Contato
 
