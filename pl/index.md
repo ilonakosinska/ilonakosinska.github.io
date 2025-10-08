@@ -14,11 +14,11 @@ Witryna zawiera informacje kontaktowe, które pozwalają użytkownikom skontakto
 
   Aplikacja dostępna jest w następujących systemach operacyjnych dla urządzeń mobilnych: iOS i Android.
 
-  Najnowsza wersja aplikacji dla systemu iOS: 1.9(1)
+  Najnowsza wersja aplikacji dla systemu iOS: 1.10(1)
 
-  Nadchodząca aktualizacja dla systemu iOS: 1.10(1)
+  Nadchodząca aktualizacja dla systemu iOS: 1.11(1)
   
-  Najnowsza wersja aplikacji dla systemu Android: 1.6(45)
+  Najnowsza wersja aplikacji dla systemu Android: 1.9-full-minApi21
   
 ### Kontakt
 
