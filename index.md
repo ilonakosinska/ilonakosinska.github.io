@@ -27,11 +27,11 @@ Find the desired application name in the list below and visit the website provid
 
   The application is available in the following operating systems for mobile devices: iOS and Android.
 
-  The latest version of the app for iOS and macOS (Designed for iPad): 1.9(1)
+  The latest version of the app for iOS and macOS (Designed for iPad): 1.10(1)
  
-  The next upcoming update of the app for iOS: 1.10(1)
+  The next upcoming update of the app for iOS: 1.11(1)
   
-  The latest version of the app for Android: 1.6(45)
+  The latest version of the app for Android: 1.9-full-minApi21
 
 * **Genetic Algorithms**
 
