@@ -6,7 +6,7 @@
 
 **確率過程**
 
-[ドキュメントページ](https://www.taketechease.com/time-series/stochastic-processes.html) 
+[ドキュメントページ](https://www.taketechease.com/time-series/stochastic/stochastic-processes.html) 
 
 ### アプリケーションの可用性
 
