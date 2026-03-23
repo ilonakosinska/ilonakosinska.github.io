@@ -6,7 +6,7 @@ Witryna zawiera informacje kontaktowe, które pozwalają użytkownikom skontakto
 
 **Procesy Stochastyczne**
 
-[Strona dokumentacji (ang.)](https://www.taketechease.com/time-series/stochastic-processes.html)
+[Strona dokumentacji (ang.)](https://www.taketechease.com/time-series/stochastic/stochastic-processes.html)
 
 ### Dostępność Aplikacji
 
