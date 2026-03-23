@@ -6,7 +6,7 @@ Each app has its own documentation site.
 Find the desired application name in the list below and visit the website provided (in the language of your choice) for more information.
 
 * **Stochastic Processes**
-    * [English](https://www.taketechease.com/time-series/stochastic-processes.html).
+    * [English](https://www.taketechease.com/time-series/stochastic/stochastic-processes.html).
       
 ### Applications Availability
 
