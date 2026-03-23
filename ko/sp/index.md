@@ -6,7 +6,7 @@
 
 **확률 과정**
 
-[문서 페이지](https://www.taketechease.com/time-series/stochastic-processes.html)
+[문서 페이지](https://www.taketechease.com/time-series/stochastic/stochastic-processes.html)
 
 ### 애플리케이션 가용성
 
