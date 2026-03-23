@@ -7,7 +7,7 @@
 
 **隨機過程**
 
-[文檔網站](https://www.taketechease.com/time-series/stochastic-processes.html)
+[文檔網站](https://www.taketechease.com/time-series/stochastic/stochastic-processes.html)
 
 ### 應用程序可用性
 
