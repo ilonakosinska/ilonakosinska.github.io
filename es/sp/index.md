@@ -6,7 +6,7 @@ El sitio proporciona información de contacto que permite a los usuarios ponerse
 
 **Procesos Estocásticos**
 
-[Página de documentación](https://www.taketechease.com/time-series/stochastic-processes.html)
+[Página de documentación](https://www.taketechease.com/time-series/stochastic/stochastic-processes.html)
   
 ### Disponibilidad de la Aplicación
 
