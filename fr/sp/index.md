@@ -6,7 +6,7 @@ Le site fournit des informations de contact qui permettent aux utilisateurs de m
 
 **Processus Stochastiques**
 
-[Page de documentation](https://www.taketechease.com/time-series/stochastic-processes.html)
+[Page de documentation](https://www.taketechease.com/time-series/stochastic/stochastic-processes.html)
 
 ### Disponibilité des Applications
 
