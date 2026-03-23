@@ -6,7 +6,7 @@
 
 **Стохастичні процеси**
 
-[Сайт документації](https://www.taketechease.com/time-series/stochastic-processes.html)
+[Сайт документації](https://www.taketechease.com/time-series/stochastic/stochastic-processes.html)
 
 ### Доступність Програми
 
