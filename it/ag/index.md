@@ -14,7 +14,7 @@ Il sito fornisce informazioni di contatto che consentono agli utenti di contatta
 
   L'ultima versione dell'applicazione per iOS: 1.5(1)
 
-  Prossimo aggiornamento iOS: 1.6(1)
+  Prossimo aggiornamento iOS: 1.6
   
 ### Contatto
 
