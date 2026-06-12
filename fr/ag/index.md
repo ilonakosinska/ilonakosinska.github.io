@@ -12,9 +12,9 @@ Le site fournit des informations de contact qui permettent aux utilisateurs de m
 
 **Algorithmes génétiques**
 
-  Dernière version de l'application pour iOS: 1.3(2)
+  Dernière version de l'application pour iOS: 1.5(1)
 
-  Prochaine mise à jour iOS: 1.4(1)
+  Prochaine mise à jour iOS: 1.6(1)
   
 ### Contact
 
