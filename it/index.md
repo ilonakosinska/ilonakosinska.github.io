@@ -14,9 +14,9 @@ Il sito fornisce informazioni di contatto che consentono agli utenti di contatta
 
   L'applicazione è disponibile nei seguenti sistemi operativi per dispositivi mobili: iOS e Android.
 
-  L'ultima versione dell'applicazione per iOS: 1.10(1)
+  L'ultima versione dell'applicazione per iOS: 1.11(1)
 
-  Prossimo aggiornamento iOS: 1.11(1)
+  Prossimo aggiornamento iOS: 1.12(1)
   
   L'ultima versione dell'applicazione per Android: 1.9-full-minApi21
 
