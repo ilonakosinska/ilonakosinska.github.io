@@ -14,9 +14,9 @@ Die Website bietet Kontaktinformationen, die es Benutzern ermöglichen, mich zu 
 
   Die Anwendung ist in den folgenden mobilen Betriebssystemen verfügbar: iOS und Android.
 
-  Letzte Version der Anwendung für iOS: 1.10(1)
+  Letzte Version der Anwendung für iOS: 1.11(1)
 
-  Nächstes iOS-Update: 1.11(1)
+  Nächstes iOS-Update: 1.12(1)
   
   Letzte Version der Anwendung für Android: 1.9-full-minApi21
 
